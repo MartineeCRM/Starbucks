@@ -2,61 +2,71 @@
   {
     "sku_name": "탕종 플레인 베이글",
     "sku_no": "9300000004833",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000004833]_20230911131304738.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004833"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000004833]_20230911131304738.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004833&isKeepOpenPages=Y",
+    "price": 3300
   },
   {
     "sku_name": "하루 한 컵 RED+",
     "sku_no": "9300000005088",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000005088]_20240102110825788.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005088"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005088]_20240102110825788.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005088&isKeepOpenPages=Y",
+    "price": 3300
   },
   {
     "sku_name": "탕종 블루베리 베이글",
     "sku_no": "9300000004823",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000004823]_20230911131336374.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004823"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000004823]_20230911131336374.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004823&isKeepOpenPages=Y",
+    "price": 3500
   },
   {
     "sku_name": "에그 클럽 샌드위치",
     "sku_no": "9300000005698",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000005698]_20251224140933457.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005698"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005698]_20251224140933457.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005698&isKeepOpenPages=Y",
+    "price": 4500
   },
   {
     "sku_name": "더블 치킨 브레스트 체다 & 에그 샌드위치",
     "sku_no": "9300000005349",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000005349]_20240802095756205.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005349"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005349]_20240802095756205.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005349&isKeepOpenPages=Y",
+    "price": 5700
   },
   {
     "sku_name": "더블 에그 브렉퍼스트 & 체다 샌드위치",
     "sku_no": "9300000005697",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000005697]_20241120104431280.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005697"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005697]_20241120104431280.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005697&isKeepOpenPages=Y",
+    "price": 5700
   },
   {
     "sku_name": "멜팅 치즈 베이컨 토스트",
     "sku_no": "9300000005813",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000005813]_20250110155405472.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005813"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005813]_20250110155405472.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005813&isKeepOpenPages=Y",
+    "price": 5700
   },
   {
     "sku_name": "B.L.T. 샌드위치",
     "sku_no": "9300000005940",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000005940]_20250721095523786.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005940"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005940]_20250721095523786.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005940&isKeepOpenPages=Y",
+    "price": 6700
   },
   {
     "sku_name": "스크램블 에그 베이컨 샌드위치",
     "sku_no": "9300000006121",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000006121]_20250923123534437.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006121"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006121]_20250923123534437.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006121&isKeepOpenPages=Y",
+    "price": 5700
   },
   {
     "sku_name": "베이컨 체다 & 오믈렛 샌드위치",
     "sku_no": "9300000005350",
-    "Img": "https://image.istarbucks.co.kr/skuImg/[9300000005350]_20240802095850598.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005350"
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005350]_20240802095850598.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005350&isKeepOpenPages=Y",
+    "price": 5900
   }
 ]
