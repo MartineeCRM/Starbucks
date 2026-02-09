@@ -1,0 +1,23 @@
+[
+  {
+    "sku_name": "아메리카노",
+    "sku_no": "94",
+    "img": "https://image.istarbucks.co.kr/skuImg/[94]_20230221200536491.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=94&isKeepOpenPages=Y",
+    "price": 4700
+  },
+  {
+    "sku_name": "카페 라떼",
+    "sku_no": "41",
+    "img": "https://image.istarbucks.co.kr/skuImg/[41]_20210415133833172.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=41&isKeepOpenPages=Y",
+    "price": 5200
+  },
+  {
+    "sku_name": "바닐라 라떼",
+    "sku_no": "9200000006343",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006343]_20251029141705201.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006343&isKeepOpenPages=Y",
+    "price": 5200
+  }
+]
