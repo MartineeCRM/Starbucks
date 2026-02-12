@@ -68,5 +68,12 @@
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005350]_20240802095850598.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005350&isKeepOpenPages=Y",
     "price": 5900
+  },
+  {
+    "sku_name": "오도독 건강한 넛&블루베리",
+    "sku_no": "9300000004940",
+    "img": "https://stg-image.istarbucks.co.kr/skuImg/[9300000004940]_20241226082505916.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004940&isKeepOpenPages=Y",
+    "price": 2000
   }
 ]
