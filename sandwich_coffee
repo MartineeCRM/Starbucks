@@ -25,7 +25,7 @@
     "sku_no": "9200000000187",
     "img": "https://image.istarbucks.co.kr/skuImg/[9200000000187]_20231013093514641.png",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000187&isKeepOpenPages=Y",
-    "price": 
+    "price": 5900
   },
   {
     "sku_name": "바닐라 라떼",
@@ -39,76 +39,118 @@
     "sku_no": "9200000003252",
     "img": "https://image.istarbucks.co.kr/skuImg/[9200000003252]_20260203093001127.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000003252&isKeepOpenPages=Y",
-    "price": 
+    "price": null
   },
   {
     "sku_name": "브루드 커피",
     "sku_no": "2",
     "img": "https://image.istarbucks.co.kr/skuImg/[2]_20210430111933560.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=2&isKeepOpenPages=Y",
-    "price": 
+    "price": 4500
   },
   {
     "sku_name": "아이스 브루드 커피",
     "sku_no": "106509",
     "img": "https://image.istarbucks.co.kr/skuImg/[106509]_20250626092520107.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=106509&isKeepOpenPages=Y",
-    "price": 
+    "price": 4500
   },
   {
-    "sku_name": "시그니처 더 블랙 콜드 브루",
-    "sku_no": "9200000003661",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9200000003661]_20241230131104794.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000003661&isKeepOpenPages=Y",
-    "price": 20400
+    "sku_name": "콜드 브루",
+    "sku_no": "9200000000487",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000487]_20250626095702112.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000487&isKeepOpenPages=Y",
+    "price": 5100
   },
- {
-    "sku_name": "아이스 카페 아메리카노",
-    "sku_no": "110563",
-    "img": "https://image.istarbucks.co.kr/skuImg/[110563]_20250626094352662.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=110563&isKeepOpenPages=Y",
-    "price": 4700
-  },
-{
-    "sku_name": "아이스 디카페인 카페 아메리카노",
-    "sku_no": "9200000000616",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000616]_20231116154557102.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000616&isKeepOpenPages=Y",
-    "price": 5000
-  },
-{
-    "sku_name": "카페 라떼(Grande)",
-    "sku_no": "42",
-    "img": "https://image.istarbucks.co.kr/skuImg/[41]_20210415133833172.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=42&isKeepOpenPages=Y",
-    "price": 5800
-  },
-{
-    "sku_name": "아이스 카페 라떼",
-    "sku_no": "110569",
-    "img": "https://image.istarbucks.co.kr/skuImg/[110569]_20250626094801083.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=110569&isKeepOpenPages=Y",
-    "price": 5200
-  },
-{
-    "sku_name": "아이스 카페 라떼(Grande)",
-    "sku_no": "110570",
-    "img": "https://image.istarbucks.co.kr/skuImg/[110569]_20250626094801083.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=110570&isKeepOpenPages=Y",
-    "price": 5800
-  },
-{
-    "sku_name": "1/2디카페인 카페 라떼",
-    "sku_no": "9200000001159",
-    "img": "https://image.istarbucks.co.kr//skuImg//[9200000001158]_20210427132547947.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000001159&isKeepOpenPages=Y",
+  {
+    "sku_name": "제주 말차 라떼",
+    "sku_no": "9200000002496",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000002499]_20250626100714439.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000002496&isKeepOpenPages=Y",
     "price": 6100
   },
-{
-    "sku_name": "아이스 바닐라 라떼",
-    "sku_no": "9200000006346",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006346]_20251029141758755.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006346&isKeepOpenPages=Y",
-    "price": 5200
+  {
+    "sku_name": "유자 민트 티",
+    "sku_no": "9200000002956",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000002956]_20250203084001721.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000002956&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "쿨 라임 피지오",
+    "sku_no": "107051",
+    "img": "https://image.istarbucks.co.kr/skuImg/[107051]_20231012141158718.png",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=107051&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "스타벅스 클래식 밀크 티",
+    "sku_no": "9200000004933",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000004933]_20250102105626311.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000004933&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "스타벅스 딸기 라떼",
+    "sku_no": "9200000004939",
+    "img": "https://image.istarbucks.co.kr/skuImg/[72]_20210415140949429.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000004939&isKeepOpenPages=Y",
+    "price": 6500
+  },
+  {
+    "sku_name": "콜드 브루",
+    "sku_no": "9200000000038",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000038]_20231013093326702.png",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000038&isKeepOpenPages=Y",
+    "price": 5100
+  },
+  {
+    "sku_name": "스타벅스 돌체 라떼",
+    "sku_no": "128692",
+    "img": "https://image.istarbucks.co.kr/skuImg/[128692]_20210426091933168.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=128692&isKeepOpenPages=Y",
+    "price": 5100
+  },
+  {
+    "sku_name": "시그니처 핫 초콜릿",
+    "sku_no": "72",
+    "img": "https://image.istarbucks.co.kr/skuImg/[72]_20210415140950523.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=72&isKeepOpenPages=Y",
+    "price": 5900
+  },
+  {
+    "sku_name": "플랫 화이트",
+    "sku_no": "9200000005178",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000005178]_20240326103727239.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000005178&isKeepOpenPages=Y",
+    "price": 5800
+  },
+  {
+    "sku_name": "딸기 딜라이트 요거트 블렌디드",
+    "sku_no": "9200000003276",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000003276]_20250721084028659.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000003276&isKeepOpenPages=Y",
+    "price": 6500
+  },
+  {
+    "sku_name": "자바 칩 프라푸치노",
+    "sku_no": "168016",
+    "img": "https://image.istarbucks.co.kr/skuImg/[168016]_20250626113600126.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=168016&isKeepOpenPages=Y",
+    "price": 6500
+  },
+  {
+    "sku_name": "카페 아메리카노",
+    "sku_no": "9200000001871",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000001871]_20210222095222174.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000001871&isKeepOpenPages=Y",
+    "price": null
+  },
+  {
+    "sku_name": "리저브 카페 라떼",
+    "sku_no": "9200000001863",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000001863]_20210222095010164.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000001863&isKeepOpenPages=Y",
+    "price": null
   }
 ]
