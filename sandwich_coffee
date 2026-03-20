@@ -35,13 +35,6 @@
     "price": 5200
   },
   {
-    "sku_name": "더블 에스프레소 크림 라떼",
-    "sku_no": "9200000003252",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9200000003252]_20260203093001127.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000003252&isKeepOpenPages=Y",
-    "price": null
-  },
-  {
     "sku_name": "브루드 커피",
     "sku_no": "2",
     "img": "https://image.istarbucks.co.kr/skuImg/[2]_20210430111933560.jpg",
@@ -56,11 +49,11 @@
     "price": 4500
   },
   {
-    "sku_name": "콜드 브루",
+    "sku_name": "바닐라 크림 콜드 브루",
     "sku_no": "9200000000487",
     "img": "https://image.istarbucks.co.kr/skuImg/[9200000000487]_20250626095702112.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000487&isKeepOpenPages=Y",
-    "price": 5100
+    "price": 6000
   },
   {
     "sku_name": "제주 말차 라떼",
@@ -109,7 +102,7 @@
     "sku_no": "128692",
     "img": "https://image.istarbucks.co.kr/skuImg/[128692]_20210426091933168.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=128692&isKeepOpenPages=Y",
-    "price": 5100
+    "price": 6100
   },
   {
     "sku_name": "시그니처 핫 초콜릿",
@@ -144,13 +137,13 @@
     "sku_no": "9200000001871",
     "img": "https://image.istarbucks.co.kr/skuImg/[9200000001871]_20210222095222174.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000001871&isKeepOpenPages=Y",
-    "price": null
+    "price": 6000
   },
   {
-    "sku_name": "리저브 카페 라떼",
+    "sku_name": "카페 라떼",
     "sku_no": "9200000001863",
     "img": "https://image.istarbucks.co.kr/skuImg/[9200000001863]_20210222095010164.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000001863&isKeepOpenPages=Y",
-    "price": null
+    "price": 6500
   }
 ]
