@@ -1,0 +1,16 @@
+[
+  {
+    "sku_name": "스타벅스 에어로카노",
+    "sku_no": "9200000006840",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006840]_20260205135244466.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006840&isKeepOpenPages=Y",
+    "price": 4900
+  },
+  {
+    "sku_name": "카페 아메리카노",
+    "sku_no": "94",
+    "img": "https://image.istarbucks.co.kr/skuImg/[94]_20230221200536491.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=94&isKeepOpenPages=Y",
+    "price": 4700
+  }
+]
