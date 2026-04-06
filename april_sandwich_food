@@ -4,6 +4,7 @@
     "sku_no": "9300000006416",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000006416]_20260303083957405.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006416&isKeepOpenPages=Y",
-    "price": 7600
+    "price": 7600,
+    "eng_name" : "Bacon Caesar Chicken Sandwich"
   }
 ]
