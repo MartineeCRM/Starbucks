@@ -1,0 +1,18 @@
+[
+  {
+    "sku_name": "K-에그 바이트",
+    "sku_no": "9300000006508",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006508]_20260313092911109.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006508&isKeepOpenPages=Y",
+    "price": 3000,
+    "eng_name" : "K-Egg Bite"
+  },
+  {
+    "sku_name": "멜팅 치즈 베이컨 토스트",
+    "sku_no": "9300000005813",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005813]_20250110155405472.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005813&isKeepOpenPages=Y",
+    "price": 5700,
+    "eng_name" : "Melting Cheese Bacon Toast"
+  }
+]
