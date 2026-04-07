@@ -29,7 +29,7 @@
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000004823]_20230911131336374.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004823&isKeepOpenPages=Y",
     "price": 3500,
-    "eng_name" : Blueberry Bagel"
+    "eng_name" : "Blueberry Bagel"
   },
   {
     "sku_name": "에그 클럽 샌드위치",
@@ -45,7 +45,7 @@
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005350]_20240802095850598.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005350&isKeepOpenPages=Y",
     "price": 5900,
-    "eng_name" : "K-Egg Bite"
+    "eng_name" : "Bacon Cheddar & Omelet Sandwich"
   },
   {
     "sku_name": "B.L.T. 샌드위치",
