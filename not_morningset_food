@@ -1,60 +1,4 @@
 [
-  {
-    "sku_name": "하루 한 컵 RED+",
-    "sku_no": "9300000005088",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005088]_20240102110825788.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005088&isKeepOpenPages=Y",
-    "price": 3300,
-    "eng_name": "A Fresh Cup A Day, RED+"
-  },
-    {
-    "sku_name": "햄 & 루꼴라 페스토 샌드위치",
-    "sku_no": "9300000005567",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005567]_20260420091432298.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005567&isKeepOpenPages=Y",
-    "price": 6900,
-    "eng_name": "Ham & Rucola Pesto Sandwich"
-  },
-    {
-    "sku_name": "베이컨 시저 치킨 샌드위치",
-    "sku_no": "9300000006416",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006416]_20260414100333540.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006416&isKeepOpenPages=Y",
-    "price": 7600,
-    "eng_name": "Bacon Caesar Chicken Sandwich"
-  },
-    {
-    "sku_name": "프리미엄 바나나",
-    "sku_no": "5110009171",
-    "img": "https://image.istarbucks.co.kr/skuImg/[5110009171]_20210421162110659.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=5110009171&isKeepOpenPages=Y",
-    "price": 1500,
-    "eng_name": "Premium Banana"
-  },
-    {
-    "sku_name": "치킨 & 머쉬룸 멜팅 치즈 샌드위치",
-    "sku_no": "9300000005157",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005157]_20260414095811125.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005157&isKeepOpenPages=Y",
-    "price": 6900,
-    "eng_name": "Chicken & Mushroom Melting Cheese Sandwich"
-  },
-    {
-    "sku_name": "트리플 치즈 베이글",
-    "sku_no": "9300000006230",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006230]_20251231080902387.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006230&isKeepOpenPages=Y",
-    "price": 3900,
-    "eng_name": "Triple Cheese Bagel"
-  },
-    {
-    "sku_name": "바게트 소금빵",
-    "sku_no": "9300000005856",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005856]_20250523093416027.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005856&isKeepOpenPages=Y",
-    "price": 3300,
-    "eng_name": "Salted Bread"
-  },
     {
     "sku_name": "한개란",
     "sku_no": "9300000006068",
@@ -62,15 +6,23 @@
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006068&isKeepOpenPages=Y",
     "price": 1700,
     "eng_name": "Soft-Boiled Egg"
-  },
+    },
     {
-    "sku_name": "슬링키 쫄깃 소시지 브레드",
-    "sku_no": "9300000006537",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006537]_20260408134641847.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006537&isKeepOpenPages=Y",
-    "price": 4700,
-    "eng_name": "Slinky Sausage Bread"
-  },
+    "sku_name": "하루 한 컵 RED+",
+    "sku_no": "9300000005088",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005088]_20240102110825788.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005088&isKeepOpenPages=Y",
+    "price": 3300,
+    "eng_name": "A Fresh Cup A Day, RED+"
+    },
+    {
+    "sku_name": "프리미엄 바나나",
+    "sku_no": "5110009171",
+    "img": "https://image.istarbucks.co.kr/skuImg/[5110009171]_20210421162110659.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=5110009171&isKeepOpenPages=Y",
+    "price": 1500,
+    "eng_name": "Premium Banana"
+    },
     {
     "sku_name": "한 입에 쏙 고구마",
     "sku_no": "9300000005562",
@@ -78,5 +30,53 @@
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005562&isKeepOpenPages=Y",
     "price": 3800,
     "eng_name": "Real Sweet Potato"
-  }
+    },
+    {
+    "sku_name": "트리플 치즈 베이글",
+    "sku_no": "9300000006230",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006230]_20251231080902387.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006230&isKeepOpenPages=Y",
+    "price": 3900,
+    "eng_name": "Triple Cheese Bagel"
+    },
+    {
+    "sku_name": "슬링키 쫄깃 소시지 브레드",
+    "sku_no": "9300000006537",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006537]_20260408134641847.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006537&isKeepOpenPages=Y",
+    "price": 4700,
+    "eng_name": "Slinky Sausage Bread"
+    },
+    {
+    "sku_name": "바게트 소금빵",
+    "sku_no": "9300000005856",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005856]_20250523093416027.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005856&isKeepOpenPages=Y",
+    "price": 3300,
+    "eng_name": "Salted Bread"
+    },
+    {
+    "sku_name": "베이컨 시저 치킨 샌드위치",
+    "sku_no": "9300000006416",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006416]_20260414100333540.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006416&isKeepOpenPages=Y",
+    "price": 7600,
+    "eng_name": "Bacon Caesar Chicken Sandwich"
+    },
+    {
+    "sku_name": "햄 & 루꼴라 페스토 샌드위치",
+    "sku_no": "9300000005567",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005567]_20260420091432298.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005567&isKeepOpenPages=Y",
+    "price": 6900,
+    "eng_name": "Ham & Rucola Pesto Sandwich"
+    },
+    {
+    "sku_name": "치킨 & 머쉬룸 멜팅 치즈 샌드위치",
+    "sku_no": "9300000005157",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005157]_20260414095811125.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005157&isKeepOpenPages=Y",
+    "price": 6900,
+    "eng_name": "Chicken & Mushroom Melting Cheese Sandwich"
+    }
 ]
