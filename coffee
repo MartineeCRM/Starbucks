@@ -1,0 +1,178 @@
+[
+  {
+    "sku_name": "스타벅스 에어로카노",
+    "sku_no": "9200000006840",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006840]_20260205135244466.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006840&isKeepOpenPages=Y",
+    "price": 4900,
+    "eng_name": "Starbucks Aerocano"
+  },
+  {
+    "sku_name": "아이스 카페 아메리카노",
+    "sku_no": "110563",
+    "img": "https://image.istarbucks.co.kr/skuImg/[110563]_20250626094352662.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=110563&isKeepOpenPages=Y",
+    "price": 4700,
+    "eng_name": "Iced Caffe Americano"
+  },
+  {
+    "sku_name": "카페 아메리카노",
+    "sku_no": "94",
+    "img": "https://image.istarbucks.co.kr/skuImg/[94]_20230221200536491.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=94&isKeepOpenPages=Y",
+    "price": 4700,
+    "eng_name": "Caffe Americano"
+  },
+  {
+    "sku_name": "카페 라떼",
+    "sku_no": "41",
+    "img": "https://image.istarbucks.co.kr/skuImg/[41]_20210415133833172.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=41&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Caffe Latte"
+  },
+  {
+    "sku_name": "아이스 카페 라떼",
+    "sku_no": "110569",
+    "img": "https://image.istarbucks.co.kr/skuImg/[110569]_20250626094801083.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=110569&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Iced Caffe Latte"
+  },
+  {
+    "sku_name": "아이스 바닐라 라떼",
+    "sku_no": "9200000006346",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006346]_20251029141758755.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006346&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Iced Vanilla Latte"
+  },
+  {
+    "sku_name": "바닐라 라떼",
+    "sku_no": "9200000006343",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006343]_20251029141705201.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006343&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Vanilla Latte"
+  },
+  {
+    "sku_name": "자몽 허니 블랙 티",
+    "eng_name": "Grapefruit Honey Black Tea",
+    "sku_no": "9200000000187",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000187]_20210419131228953.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000187&isKeepOpenPages=Y",
+    "price": 5900
+  },
+  {
+    "sku_name": "브루드 커피",
+    "eng_name": "Brewed Coffee",
+    "sku_no": "2",
+    "img": "https://image.istarbucks.co.kr/skuImg/[2]_20210430111933560.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=2&isKeepOpenPages=Y",
+    "price": 4500
+  },
+  {
+    "sku_name": "아이스 브루드 커피",
+    "eng_name": "Iced Brewed Coffee",
+    "sku_no": "106509",
+    "img": "https://image.istarbucks.co.kr/skuImg/[106509]_20250626092520107.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=106509&isKeepOpenPages=Y",
+    "price": 4500
+  },
+  {
+    "sku_name": "바닐라 크림 콜드 브루",
+    "eng_name": "Vanilla Cream Cold Brew",
+    "sku_no": "9200000000487",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000487]_20250626095702112.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000487&isKeepOpenPages=Y",
+    "price": 6000
+  },
+  {
+    "sku_name": "제주 말차 라떼",
+    "eng_name": "Jeju Matcha Latte",
+    "sku_no": "9200000002496",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000002499]_20250626100714439.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000002496&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "유자 민트 티",
+    "eng_name": "Yuja Mint Tea",
+    "sku_no": "9200000002956",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000002956]_20250203084001721.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000002956&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "쿨 라임 피지오",
+    "eng_name": "Cool Lime Fizzio",
+    "sku_no": "107051",
+    "img": "https://image.istarbucks.co.kr/skuImg/[107051]_20250626093748272.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=107051&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "스타벅스 클래식 밀크 티",
+    "eng_name": "Starbucks Classic Milk Tea",
+    "sku_no": "9200000004933",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000004933]_20250102105626311.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000004933&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "스타벅스 딸기 라떼",
+    "eng_name": "Starbucks Strawberry Latte",
+    "sku_no": "9200000004939",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000004939]_20250521141119019.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000004939&isKeepOpenPages=Y",
+    "price": 6500
+  },
+  {
+    "sku_name": "콜드 브루",
+    "eng_name": "Cold Brew",
+    "sku_no": "9200000000038",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000038]_20250626095742888.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000038&isKeepOpenPages=Y",
+    "price": 5100
+  },
+  {
+    "sku_name": "스타벅스 돌체 라떼",
+    "eng_name": "Starbucks Dolce Latte",
+    "sku_no": "128692",
+    "img": "https://image.istarbucks.co.kr/skuImg/[128692]_20210426091933168.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=128692&isKeepOpenPages=Y",
+    "price": 6100
+  },
+  {
+    "sku_name": "시그니처 핫 초콜릿",
+    "eng_name": "Signature Hot Chocolate",
+    "sku_no": "72",
+    "img": "https://image.istarbucks.co.kr/skuImg/[72]_20210415140950523.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=72&isKeepOpenPages=Y",
+    "price": 5900
+  },
+  {
+    "sku_name": "플랫 화이트",
+    "eng_name": "Flat White",
+    "sku_no": "9200000005178",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000005178]_20240326103727239.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000005178&isKeepOpenPages=Y",
+    "price": 5800
+  },
+  {
+    "sku_name": "딸기 딜라이트 요거트 블렌디드",
+    "eng_name": "Strawberry Delight Yogurt Blended",
+    "sku_no": "9200000003276",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000003276]_20250721084028659.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000003276&isKeepOpenPages=Y",
+    "price": 6500
+  },
+  {
+    "sku_name": "자바 칩 프라푸치노",
+    "eng_name": "Java Chip Frappuccino",
+    "sku_no": "168016",
+    "img": "https://image.istarbucks.co.kr/skuImg/[168016]_20250626113600126.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=168016&isKeepOpenPages=Y",
+    "price": 6500
+  }
+]
