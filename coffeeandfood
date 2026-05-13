@@ -160,75 +160,27 @@
     "price": 1700
   },
   {
-    "sku_name": "하루 한 컵 RED+",
-    "eng_name": "A Fresh Cup A Day, RED+",
-    "sku_no": "9300000005088",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005088]_20240102110825788.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005088&isKeepOpenPages=Y",
-    "price": 3300
+    "sku_name": "K-에그 바이트",
+    "eng_name": "K-Egg Bite",
+    "sku_no": "9300000006508",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006508]_20260313092911109.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006508&isKeepOpenPages=Y",
+    "price": 3000
   },
   {
-    "sku_name": "프리미엄 바나나",
-    "eng_name": "Premium Banana",
-    "sku_no": "5110009171",
-    "img": "https://image.istarbucks.co.kr/skuImg/[5110009171]_20210421162110659.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=5110009171&isKeepOpenPages=Y",
-    "price": 1500
+    "sku_name": "멜팅 치즈 베이컨 토스트",
+    "eng_name": "Melting Cheese Bacon Toast",
+    "sku_no": "9300000005813",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005813]_20250110155405472.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005813&isKeepOpenPages=Y",
+    "price": 5700
   },
   {
-    "sku_name": "한 입에 쏙 고구마",
-    "eng_name": "Real Sweet Potato",
-    "sku_no": "9300000005562",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005562]_20241213093413980.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005562&isKeepOpenPages=Y",
-    "price": 3800
-  },
-  {
-    "sku_name": "트리플 치즈 베이글",
-    "eng_name": "Triple Cheese Bagel",
-    "sku_no": "9300000006230",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006230]_20251231080902387.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006230&isKeepOpenPages=Y",
-    "price": 3900
-  },
-  {
-    "sku_name": "슬링키 쫄깃 소시지 브레드",
-    "eng_name": "Slinky Sausage Bread",
-    "sku_no": "9300000006537",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006537]_20260408134641847.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006537&isKeepOpenPages=Y",
-    "price": 4700
-  },
-  {
-    "sku_name": "바게트 소금빵",
-    "eng_name": "Salted Bread",
-    "sku_no": "9300000005856",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005856]_20250523093416027.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005856&isKeepOpenPages=Y",
-    "price": 3300
-  },
-  {
-    "sku_name": "베이컨 시저 치킨 샌드위치",
-    "eng_name": "Bacon Caesar Chicken Sandwich",
-    "sku_no": "9300000006416",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006416]_20260414100333540.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006416&isKeepOpenPages=Y",
-    "price": 7600
-  },
-  {
-    "sku_name": "햄 & 루꼴라 페스토 샌드위치",
-    "eng_name": "Ham & Rucola Pesto Sandwich",
-    "sku_no": "9300000005567",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005567]_20260420091432298.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005567&isKeepOpenPages=Y",
-    "price": 6900
-  },
-  {
-    "sku_name": "치킨 & 머쉬룸 멜팅 치즈 샌드위치",
-    "eng_name": "Chicken & Mushroom Melting Cheese Sandwich",
-    "sku_no": "9300000005157",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005157]_20260414095811125.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005157&isKeepOpenPages=Y",
-    "price": 6900
+    "sku_name": "스크램블 에그 베이컨 샌드위치",
+    "eng_name": "Scrambled Egg Bacon Sandwich",
+    "sku_no": "9300000006121",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006121]_20250923123534437.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006121&isKeepOpenPages=Y",
+    "price": 5700
   }
 ]
