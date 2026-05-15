@@ -1,0 +1,84 @@
+[
+  {
+    "sku_name": "스타벅스 에어로카노",
+    "sku_no": "9200000006840",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006840]_20260205135244466.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006840&isKeepOpenPages=Y",
+    "price": 4900,
+    "eng_name": "Starbucks Aerocano",
+    "start_at": "2026-03-31T00:00:00+0900"
+  },
+  {
+    "sku_name": "아이스 카페 아메리카노",
+    "sku_no": "110563",
+    "img": "https://image.istarbucks.co.kr/skuImg/[110563]_20250626094352662.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=110563&isKeepOpenPages=Y",
+    "price": 4700,
+    "eng_name": "Iced Caffe Americano",
+    "start_at": "2026-03-31T00:00:00+0900"
+  },
+  {
+    "sku_name": "카페 아메리카노",
+    "sku_no": "94",
+    "img": "https://image.istarbucks.co.kr/skuImg/[94]_20230221200536491.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=94&isKeepOpenPages=Y",
+    "price": 4700,
+    "eng_name": "Caffe Americano",
+    "start_at": "2026-03-31T00:00:00+0900"
+  },
+  {
+    "sku_name": "아이스 카페 라떼",
+    "sku_no": "110569",
+    "img": "https://image.istarbucks.co.kr/skuImg/[110569]_20250626094801083.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=110569&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Iced Caffe Latte",
+    "start_at": "2026-03-31T00:00:00+0900"
+  },
+  {
+    "sku_name": "바닐라 크림 콜드 브루",
+    "sku_no": "9200000000487",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000487]_20250626095702112.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000487&isKeepOpenPages=Y",
+    "price": 6000,
+    "eng_name": "Vanilla Cream Cold Brew",
+    "start_at": "2026-05-19T00:00:00+0900"
+  },
+  {
+    "sku_name": "카페 라떼",
+    "sku_no": "41",
+    "img": "https://image.istarbucks.co.kr/skuImg/[41]_20210415133833172.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=41&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Caffe Latte",
+    "start_at": "2026-03-31T00:00:00+0900"
+  },
+  {
+    "sku_name": "아이스 바닐라 라떼",
+    "sku_no": "9200000006346",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006346]_20251029141758755.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006346&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Iced Vanilla Latte",
+    "start_at": "2026-03-31T00:00:00+0900"
+  },
+  {
+    "sku_name": "콜드 브루",
+    "sku_no": "9200000000038",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000000038]_20250626095742888.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000000038&isKeepOpenPages=Y",
+    "price": 5100,
+    "eng_name": "Cold Brew",
+    "start_at": "2026-05-19T00:00:00+0900"
+  },
+  {
+    "sku_name": "바닐라 라떼",
+    "sku_no": "9200000006343",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000006343]_20251029141705201.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000006343&isKeepOpenPages=Y",
+    "price": 5200,
+    "eng_name": "Vanilla Latte",
+    "start_at": "2026-03-31T00:00:00+0900"
+  }
+]
+``
