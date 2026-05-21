@@ -1,0 +1,18 @@
+[
+  {
+    "sku_name": "바질 치킨 토마토 샌드위치",
+    "sku_no": "9300000006549",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006549]_20260326154918939.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006549&isKeepOpenPages=Y",
+    "price": 6700,
+    "eng_name" : "Basil Chicken Tomato Sandwich"
+  },
+  {
+    "sku_name": "렌위치 치미추리 비프랩", 
+    "sku_no": "000000000000",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005157]_20240430143822900.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005157&isKeepOpenPages=Y",
+    "price": 6900,
+    "eng_name" : "beefwrap"
+  }
+]
