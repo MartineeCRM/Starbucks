@@ -155,7 +155,7 @@
     "sku_name": "아이스 카페 아메리카노",
     "eng_name": "Iced Caffe Americano",
     "sku_no": "9200000001873",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9200000001871]_20210222095222174.jpg",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000001873]_20210222095257375.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000001873&isKeepOpenPages=Y",
     "price": 6000
   },
@@ -163,7 +163,7 @@
     "sku_name": "아이스 카페 라떼",
     "eng_name": "Iced Caffe Latte",
     "sku_no": "9200000001865",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9200000001863]_20210222095010164.jpg",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000001865]_20210222095047826.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000001865&isKeepOpenPages=Y",
     "price": 6500
   }
