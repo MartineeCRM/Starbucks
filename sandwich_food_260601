@@ -6,5 +6,13 @@
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006549&isKeepOpenPages=Y",
     "price": 6700,
     "eng_name" : "Basil Chicken Tomato Sandwich"
+  },
+  {
+    "sku_name": "렌위치 치미추리 비프랩", 
+    "sku_no": "9300000006635",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006635]_20260528151808669.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006635&isKeepOpenPages=Y",
+    "price": 8900,
+    "eng_name" : "Lenwich Chimichurri Beef Wrap"
   }
 ]
