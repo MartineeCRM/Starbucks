@@ -99,7 +99,7 @@
     "sku_name": "스타벅스 딸기 라떼",
     "eng_name": "Starbucks Strawberry Latte",
     "sku_no": "9200000004939",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9200000004939]_20250521141119019.jpg",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9200000004939]_20250721084235569.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=DRINK_DETAIL&skuNo=9200000004939&isKeepOpenPages=Y",
     "price": 6500
   },
