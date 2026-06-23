@@ -3,7 +3,7 @@
     "sku_name": "하루 한 컵 RED+",
     "sku_no": "9300000005088",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005088]_20240102110825788.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000005088&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005088&isKeepOpenPages=Y",
     "price": 3300,
     "eng_name": "A Fresh Cup A Day, RED+"
   },
@@ -11,7 +11,7 @@
     "sku_name": "프리미엄 바나나",
     "sku_no": "5110009171",
     "img": "https://image.istarbucks.co.kr/skuImg/[5110009171]_20210421162110659.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=5110009171&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=5110009171&isKeepOpenPages=Y",
     "price": 1500,
     "eng_name": "Premium Banana"
   },
@@ -19,7 +19,7 @@
     "sku_name": "한개란",
     "sku_no": "9300000006068",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000006068]_20250903092533211.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000006068&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006068&isKeepOpenPages=Y",
     "price": 1700,
     "eng_name": "Soft-Boiled Egg"
   },
@@ -27,7 +27,7 @@
     "sku_name": "치킨 & 머쉬룸 멜팅 치즈 샌드위치",
     "sku_no": "9300000005157",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005157]_20240430143822900.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000005157&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005157&isKeepOpenPages=Y",
     "price": 6900,
     "eng_name": "Chicken & Mushroom Melting Cheese Sandwich"
   },
@@ -35,7 +35,7 @@
     "sku_name": "햄 & 루꼴라 페스토 샌드위치",
     "sku_no": "9300000005567",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005567]_20260420091432298.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000005567&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005567&isKeepOpenPages=Y",
     "price": 6900,
     "eng_name": "Ham & Rucola Pesto Sandwich"
   },
@@ -43,7 +43,7 @@
     "sku_name": "바질 치킨 토마토 브리또",
     "sku_no": "9300000005859",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005859]_20250311155315115.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000005859&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005859&isKeepOpenPages=Y",
     "price": 5100,
     "eng_name": "Basil Chicken Tomato Burrito"
   },
@@ -51,7 +51,7 @@
     "sku_name": "바게트 소금빵",
     "sku_no": "9300000005856",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005856]_20250523093416027.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000005856&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005856&isKeepOpenPages=Y",
     "price": 3300,
     "eng_name": "Salted Bread"
   },
@@ -59,7 +59,7 @@
     "sku_name": "트리플 치즈 베이글",
     "sku_no": "9300000006230",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000006230]_20251231080902387.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000006230&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006230&isKeepOpenPages=Y",
     "price": 3900,
     "eng_name": "Triple Cheese Bagel"
   },
@@ -67,7 +67,7 @@
     "sku_name": "바질 토마토 탕종 베이글 샌드",
     "sku_no": "9300000005233",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005233]_20240704143441378.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000005233&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005233&isKeepOpenPages=Y",
     "price": 5900,
     "eng_name": "Basil Tomato Cream Cheese Bagel Sandwich"
   },
@@ -75,7 +75,7 @@
     "sku_name": "쫄깃 소시지 브레드",
     "sku_no": "9300000006537",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000006537]_20260527080534134.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000006537&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006537&isKeepOpenPages=Y",
     "price": 4700,
     "eng_name": "Sausage Bread"
   },
@@ -83,7 +83,7 @@
     "sku_name": "스타벅스 치즈 쿠키",
     "sku_no": "9300000006428",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000006428]_20260514102727030.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000006428&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006428&isKeepOpenPages=Y",
     "price": 1500,
     "eng_name": "Starbucks Cheese Cookie"
   },
@@ -91,7 +91,7 @@
     "sku_name": "오도독 건강한 넛&블루베리",
     "sku_no": "9300000004940",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000004940]_20241226082505036.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000004940&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004940&isKeepOpenPages=Y",
     "price": 2000,
     "eng_name": "Nut&Blueberry"
   },
@@ -99,7 +99,7 @@
     "sku_name": "부드러운 생크림 카스텔라",
     "sku_no": "5110007181",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005866]_20250220104449084.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=5110007181&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=5110007181&isKeepOpenPages=Y",
     "price": 4500,
     "eng_name": "Fresh Cream Castella"
   },
@@ -107,7 +107,7 @@
     "sku_name": "잉글리쉬 스콘",
     "sku_no": "9300000005663",
     "img": "https://image.istarbucks.co.kr/skuImg/[9300000005663]_20241106163601847.jpg",
-    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&amp;sub=FOOD_DETAIL&amp;skuNo=9300000005663&amp;isKeepOpenPages=Y",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005663&isKeepOpenPages=Y",
     "price": 3900,
     "eng_name": "English Scone"
   }
