@@ -2,7 +2,7 @@
   {
     "sku_name": "크랜베리 치킨 샌드위치",
     "sku_no": "9300000005855",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005855]_20250521092732670.jpg",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005855]_20260630082428679.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005855&isKeepOpenPages=Y",
     "price": 6500,
     "eng_name" : "Cranberry Chicken Sandwich"
@@ -10,7 +10,7 @@
   {
     "sku_name": "카프레제 미트볼 샌드위치",
     "sku_no": "9300000006798",
-    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006635]_20260528151808669.jpg",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006798]_20260617125347950.jpg",
     "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006798&isKeepOpenPages=Y",
     "price": 7500,
     "eng_name" : "Caprese Meatball Sandwich"
