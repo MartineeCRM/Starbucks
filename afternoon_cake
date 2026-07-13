@@ -1,0 +1,122 @@
+[
+    {
+    "sku_name": "부드러운 생크림 카스텔라",
+    "sku_no": "5110007181",
+    "img": "https://image.istarbucks.co.kr/skuImg/[5110007181]_20210421164727960.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=5110007181&isKeepOpenPages=Y",
+    "price": 4500,
+    "eng_name": "Fresh Cream Castella"
+    },
+    {
+    "sku_name": "초콜릿 크런치 케이크",
+    "sku_no": "9300000006565",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006565]_20260313093131541.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006565&isKeepOpenPages=Y",
+    "price": 7300,
+    "eng_name": "Chocolate Crunch Cake"
+    },
+    {
+    "sku_name": "블루베리 마블 치즈 케이크",
+    "sku_no": "9300000005472",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005472]_20240926125201133.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005472&isKeepOpenPages=Y",
+    "price": 7300,
+    "eng_name": "Blueberry Marble Cheese Cake"
+    },
+    {
+    "sku_name": "딸기 촉촉 초코 생크림 케이크",
+    "sku_no": "9300000005594",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005594]_20250205141352161.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005594&isKeepOpenPages=Y",
+    "price": 8300,
+    "eng_name": "Strawberry Choco Cream Cake"
+    },
+    {
+    "sku_name": "쫀득 버터 바이트",
+    "sku_no": "9300000006602",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006602]_20260324082603755.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006602&isKeepOpenPages=Y",
+    "price": 7900,
+    "eng_name": "Chewy Butter Bites"
+    },
+    {
+    "sku_name": "고구마 카스텔라 생크림 케이크",
+    "sku_no": "9300000006218",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006218]_20251231081029480.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006218&isKeepOpenPages=Y",
+    "price": 7100,
+    "eng_name": "Sweet Potato Castella Cream Cake"
+    },
+    {
+    "sku_name": "모찌 쏙 바스크 치즈 케이크",
+    "sku_no": "9300000006609",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006609]_20260609095911870.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006609&isKeepOpenPages=Y",
+    "price": 9500,
+    "eng_name": "Mochi Basque Cheese Cake"
+    },
+    {
+    "sku_name": "초코 품은 부생카",
+    "sku_no": "9300000005769",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005769]_20250304112846685.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005769&isKeepOpenPages=Y",
+    "price": 5500,
+    "eng_name": "Choco & Fresh Cream Castella"
+    },
+    {
+    "sku_name": "레이디핑거 티라미수 케이크",
+    "sku_no": "9300000005607",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005607]_20241216090248474.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005607&isKeepOpenPages=Y",
+    "price": 6900,
+    "eng_name": "Ladyfinger Tiramisu Cake"
+    },
+    {
+    "sku_name": "버터바",
+    "sku_no": "9300000004784",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000004784]_20230613153945782.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000004784&isKeepOpenPages=Y",
+    "price": 3800,
+    "eng_name": "Butter Bar"
+    },
+    {
+    "sku_name": "망고 코코 쿠헨",
+    "sku_no": "9300000006608",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006608]_20260507094440179.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006608&isKeepOpenPages=Y",
+    "price": 9900,
+    "eng_name": "Mango Coconut Baumkuchen"
+    },
+    {
+    "sku_name": "다크 초콜릿 마카롱",
+    "sku_no": "9300000001924",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000001924]_20210421133005262.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000001924&isKeepOpenPages=Y",
+    "price": 2700,
+    "eng_name": "Dark Chocolate Macaron"
+    },
+    {
+    "sku_name": "말차 티라미수",
+    "sku_no": "9300000006563",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000006563]_20260622093144763.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000006563&isKeepOpenPages=Y",
+    "price": 8900,
+    "eng_name": "Malcha Tiramisu"
+    },
+    {
+    "sku_name": "클래식 피낭시에",
+    "sku_no": "9300000005609",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005609]_20241028092617792.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005609&isKeepOpenPages=Y",
+    "price": 3500,
+    "eng_name": "Classic Financier"
+    },
+    {
+    "sku_name": "생크림 크레이프 롤",
+    "sku_no": "9300000005231",
+    "img": "https://image.istarbucks.co.kr/skuImg/[9300000005231]_20240704144227796.jpg",
+    "deeplink": "starbuckskr://deeplink?main=SIREN_ORDER&sub=FOOD_DETAIL&skuNo=9300000005231&isKeepOpenPages=Y",
+    "price": 7500,
+    "eng_name": "Fresh Cream Crepe Rolls"
+    }
+]
